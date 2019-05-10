@@ -1,0 +1,5 @@
+{"cpu_time": 0, "total_cpu_time": null, "wallclock_time": 0.00010156631469726562, "evaluations": 0, "cost": 2147483648, "incumbent": ["beta1='0.9'", "lr='0.001'"], "origin": "Default"}
+{"cpu_time": 1109.742836713791, "total_cpu_time": null, "wallclock_time": 1109.7433745861053, "evaluations": 1, "cost": 0.049799999999999955, "incumbent": ["beta1='0.9'", "lr='0.001'"], "origin": "Default"}
+{"cpu_time": 8551.271161556244, "total_cpu_time": null, "wallclock_time": 8552.113555192947, "evaluations": 7, "cost": 0.04800000000000004, "incumbent": ["beta1='0.5954196728494029'", "lr='0.002405255095722847'"], "origin": "Random Search (sorted)"}
+{"cpu_time": 14762.826698303223, "total_cpu_time": null, "wallclock_time": 14765.622025251389, "evaluations": 12, "cost": 0.04600000000000004, "incumbent": ["beta1='0.6230216540992735'", "lr='0.0008717652992320107'"], "origin": "Random Search (sorted)"}
+{"cpu_time": 23548.45448899269, "total_cpu_time": null, "wallclock_time": 23553.552443504333, "evaluations": 19, "cost": 0.04300000000000004, "incumbent": ["beta1='0.9422832515229478'", "lr='0.0019267156604920684'"], "origin": "Random Search"}
